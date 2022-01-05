@@ -1,0 +1,38 @@
+body {
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+}
+
+.parent {
+  display: flex;
+  background-image: url(images/top-banner.png);
+  background-repeat: no-repeat;
+}
+
+.half-width {
+  width: 50%;
+  margin-top: 30px;
+  margin-left: 120px;
+}
+
+.half-width img {
+  width: 100%;
+}
+
+.button {
+  padding: 8px 20px;
+  color: white;
+  background-color: orange;
+  border: 1px solid beige;
+  border-radius: 10px;
+}
+
+.parent-2 {
+  background-image: url(images/dream-bg.png);
+  background-repeat: no-repeat;
+  display: flex;
+}
+.parent-3 {
+  background-image: url(images/exp-bg.png);
+  background-repeat: no-repeat;
+}
